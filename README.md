@@ -3,5 +3,5 @@ This application is Java based Android application where the user enters informa
 The application focuses on having a text file within the application capture the information that is inputted by the user, and then after
 saving the text for the list, the user exits the application, and then when the user opens the application for viewrship the text file will save
 the text entered by the user. This application is built in Android Studios, and to view the simulation for the application on an Android
-Emulator, the user will have to download Android Studios for the application. Simple and easy application for saving text files for
+Emulator, the user will have to download Android Studios for the application. Simple and easy application for saving text files 
 to display the list for the user.
